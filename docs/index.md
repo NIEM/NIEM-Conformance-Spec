@@ -6,10 +6,9 @@ This document specifies general conformance guidance, principles, and rules for 
 
 # Current version
 
-- [Version 5.0beta1](v5.0beta1)
+- [Version 5.0beta1](draft)
 
 # Previous versions
 
-- [Version 4.0alpha1](https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v4.0alpha1)
-- [Version 3.0](https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v3.0)
-- [Version 1.0](https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v1.0)
+- [Version 3.0](v3.0)
+- [Version 1.0](v1.0)
