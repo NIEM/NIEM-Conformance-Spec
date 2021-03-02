@@ -38,11 +38,7 @@ Table of contents
 
 3. Artifacts may conform with NIEM
 
-   Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply.
-
-   [Definition: conformance target]
-
-      A class of artifact, such as an interface, protocol, document, platform, process, or service that is the subject of conformance clauses and normative statements. There may be several conformance targets defined within a specification, and these targets may be diverse to reflect different aspects of a specification. For example, a protocol message and a protocol engine may be different conformance targets.
+   Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply, as defined in [NIEM Conformance Targets Attribute Specification 3.0] Section 3.1, Conformance Target Defined.
 
    NIEM conformance targets include:
 
@@ -121,8 +117,4 @@ Appendix A. References
    [NIEM Tools Catalog]: NIEM Tools Catalog, NIEM Management Office (MO). Available from https://www.niem.gov/tools-catalog.
 
    [Efficient XML Interchange (EXI)]: Efficient XML Interchange (EXI) Format 1.0 (Second Edition), W3C. Available from https://www.w3.org/TR/exi/.
-
-Appendix B. Index of definitions
-
-   The index of definitions is omitted from this edition.
 
