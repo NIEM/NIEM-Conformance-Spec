@@ -1,8 +1,8 @@
 National Information Exchange Model Conformance Specification
 
-Version 5.0beta1
+Version 5.0RC1
 
-December 17, 2020
+March 5, 2021
 
 NIEM Technical Architecture Committee (NTAC)
 
@@ -38,7 +38,7 @@ Table of contents
 
 3. Artifacts may conform with NIEM
 
-   Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply, as defined in [NIEM Conformance Targets Attribute Specification 3.0] Section 3.1, Conformance Target Defined.
+   Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply, as defined in the [NIEM Conformance Targets Attribute Specification 3.0] Section 3.1, Conformance Target Defined.
 
    NIEM conformance targets include:
 

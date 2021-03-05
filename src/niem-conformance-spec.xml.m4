@@ -61,7 +61,7 @@
   <section>
     <title>Artifacts may conform with NIEM</title>
 
-    <p>Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply, as defined in MACRO_REF_EXTERNAL(CTAS,MACRO_HREF_CTAS#section_3.1,3.1,Conformance Target Defined).</p>
+    <p>Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply, as defined in the MACRO_REF_EXTERNAL(CTAS,MACRO_HREF_CTAS#section_3.1,3.1,Conformance Target Defined).</p>
 
     <p>NIEM conformance targets include:</p>
 

@@ -6,7 +6,7 @@ This document specifies general conformance guidance, principles, and rules for 
 
 # Current version
 
-- [Version 5.0beta1](draft)
+- [Version 5.0RC1](draft)
 
 # Previous versions
 
