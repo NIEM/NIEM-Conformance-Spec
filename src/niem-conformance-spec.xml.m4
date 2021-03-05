@@ -61,13 +61,7 @@
   <section>
     <title>Artifacts may conform with NIEM</title>
 
-    <p>Conformance to NIEM is defined in terms of artifacts.  NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply.</p>
-
-    <definition term="conformance target">
-
-      <p>A class of artifact, such as an interface, protocol, document, platform, process, or service that is the subject of conformance clauses and normative statements. There may be several conformance targets defined within a specification, and these targets may be diverse to reflect different aspects of a specification. For example, a protocol message and a protocol engine may be different conformance targets.</p>
-
-    </definition>
+    <p>Conformance to NIEM is defined in terms of artifacts. NIEM defines various conformance targets as the classes of artifacts to which sets of normative rules apply, as defined in the MACRO_REF_EXTERNAL(CTAS,MACRO_HREF_CTAS#section_3.1,3.1,Conformance Target Defined).</p>
 
     <p>NIEM conformance targets include:</p>
 
@@ -202,9 +196,11 @@
 
   </section>
 
+  <!-- No definitions defined
   <section id="index-of-defns"><title>Index of definitions</title>
     <indexOfDefinitions/>
   </section>
+  -->
   <!-- No rules defined
   <section id="index-of-rules"><title>Index of rules</title>
     <indexOfRules/>
