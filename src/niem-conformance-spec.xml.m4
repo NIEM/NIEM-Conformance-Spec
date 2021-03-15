@@ -165,20 +165,20 @@
 
     <reference id="CTAS" label="NIEM Conformance Targets Attribute Specification 3.0">
 
-      <p>Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from <link>http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/</link>.</p>
+      <p>Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from <link>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/</link>.</p>
 
     </reference>
 
     <reference id="NIEMNDR50" label="NIEM NDR 5.0">
 
-      <p>NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from <link>https://reference.niem.gov/niem/specification/naming-and-design-rules/</link>.</p>
+      <p>NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 18, 2020. Available from <link>https://reference.niem.gov/niem/specification/naming-and-design-rules/5.0/</link>.</p>
 
     </reference>
 
     <reference id="NIEMIEPDSpecification50" label="NIEM IEPD Specification 5.0">
 
       <p>NIEM Information Exchange Package
-		Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 17 2020. Available from <link>http://reference.niem.gov/niem/specification/model-package-description/</link>.</p>
+		Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC). Available from <link>https://reference.niem.gov/niem/specification/model-package-description/5.0/</link>.</p>
 
     </reference>
 

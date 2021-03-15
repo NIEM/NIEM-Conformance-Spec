@@ -108,11 +108,11 @@ Table of contents
 
 Appendix A. References
 
-   [NIEM Conformance Targets Attribute Specification 3.0]: Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/.
+   [NIEM Conformance Targets Attribute Specification 3.0]: Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/.
 
-   [NIEM NDR 5.0]: NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from https://reference.niem.gov/niem/specification/naming-and-design-rules/.
+   [NIEM NDR 5.0]: NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 18, 2020. Available from https://reference.niem.gov/niem/specification/naming-and-design-rules/5.0/.
 
-   [NIEM IEPD Specification 5.0]: NIEM Information Exchange Package Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 17 2020. Available from http://reference.niem.gov/niem/specification/model-package-description/.
+   [NIEM IEPD Specification 5.0]: NIEM Information Exchange Package Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC). Available from https://reference.niem.gov/niem/specification/model-package-description/5.0/.
 
    [NIEM Tools Catalog]: NIEM Tools Catalog, NIEM Management Office (MO). Available from https://www.niem.gov/tools-catalog.
 
