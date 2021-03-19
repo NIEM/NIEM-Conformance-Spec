@@ -21,13 +21,6 @@
   </subsection>
 
   <subsection>
-    <title>Authors</title>
-    <p>Jim Cabral, MTG Management
-      (<link href="mailto:jec@mtgmc.com">&lt;jec@mtgmc.com&gt;</link>),
-      Lead author</p>
-  </subsection>
-
-  <subsection>
     <title>Status</title>
     <p>This document is a draft of the specification for general NIEM conformance. It represents the collaborative work of the NIEM Business Architecture Committee (NBAC) and the NIEM Technical Architecture Committee (NTAC).</p>
     
@@ -165,32 +158,32 @@
 
     <reference id="CTAS" label="NIEM Conformance Targets Attribute Specification 3.0">
 
-      <p>Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from <link>http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/</link>.</p>
+      <p><q>Attribute Specification, Version 3.0,</q> NIEM Technical Architecture Committee (NTAC). Available from <link>MACRO_HREF_CTAS</link>.</p>
 
     </reference>
 
     <reference id="NIEMNDR50" label="NIEM NDR 5.0">
 
-      <p>NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from <link>https://reference.niem.gov/niem/specification/naming-and-design-rules/</link>.</p>
+      <p><q>NIEM Naming and Design Rules, Version 5.0,</q> NIEM Technical Architecture Committee (NTAC). Available from <link>MACRO_HREF_NDR</link>.</p>
 
     </reference>
 
     <reference id="NIEMIEPDSpecification50" label="NIEM IEPD Specification 5.0">
 
-      <p>NIEM Information Exchange Package
-		Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 17 2020. Available from <link>http://reference.niem.gov/niem/specification/model-package-description/</link>.</p>
+      <p><q>NIEM Information Exchange Package
+		Documentation (IEPD) Specification, Version 5.0,</q> NIEM Technical Architecture Committee (NTAC). Available from <link>MACRO_HREF_IEPD</link>.</p>
 
     </reference>
 
     <reference id="NIEMToolsCatalog" label="NIEM Tools Catalog">
 
-      <p>NIEM Tools Catalog, NIEM Management Office (MO). Available from <link>https://www.niem.gov/tools-catalog</link>.</p>
+      <p><q>NIEM Tools Catalog,</q> NIEM Management Office (MO). Available from <link>https://www.niem.gov/tools-catalog</link>.</p>
 
     </reference>
 
     <reference id="W3-EXI" label="Efficient XML Interchange (EXI)">
 
-      <p>Efficient XML Interchange (EXI) Format 1.0 (Second Edition), W3C. Available from <link>https://www.w3.org/TR/exi/</link>.</p>
+      <p><q>Efficient XML Interchange (EXI) Format 1.0 (Second Edition),</q> W3C. Available from <link>https://www.w3.org/TR/exi/</link>.</p>
 
     </reference>
 
