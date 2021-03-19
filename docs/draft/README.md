@@ -4,7 +4,7 @@ This document specifies general conformance guidance, principles, and rules for 
 
 Please submit comments on this specification as issues at <https://github.com/NIEM/NIEM-Conformance-Spec/issues>.
 
-This document is tracked in version control at <https://github.com/NIEM/NIEM-Conformance-Spec>. This version is tagged in GitHub at <https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v5.0RC1>.
+This document is tracked in version control at <https://github.com/NIEM/NIEM-Conformance-Spec>. This version is tagged in GitHub at <https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v5.0>.
 
 # Files
 
